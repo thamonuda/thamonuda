@@ -53,8 +53,8 @@
 
 ### 💼 Portfolio & Contact
 - 🌐 **Portfolio**: [thamonuda.dev](https://your-portfolio-link.com)
-- 📧 **Email**: [thamonuda@example.com](mailto:thamonuda@example.com)
-- 💬 **LinkedIn**: [Connect with me](https://linkedin.com/in/thamonuda)
+- 📧 **Email**: [thamonuda2004@gmail.com](mailto:thamonuda2004@gmail.com)
+- 💬 **LinkedIn**: [THAMONUDA KAVEESHA](https://www.linkedin.com/in/thamonuda-kaveesha-b8677a311/)
 - 🐦 **Twitter**: [@thamonuda](https://twitter.com/thamonuda)
 
 ---
